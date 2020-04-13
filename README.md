@@ -76,7 +76,7 @@ and integrate systems more effectively."
 
 [https://github.com/sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 
-### Pyscopg2
+### Psycopg2
 
 "PostgreSQL database adapter for the Python programming language"
 
